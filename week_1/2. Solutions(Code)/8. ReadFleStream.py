@@ -8,7 +8,7 @@ import sys
 if len(sys.argv) > 1 :
 	FileName=str(sys.argv[1])
 else:
-	FileName=str(raw_input(""))
+	FileName=str(raw_input("Enter File name: "))
 	
 File=open(FileName,"r")
 Line=File.readline()

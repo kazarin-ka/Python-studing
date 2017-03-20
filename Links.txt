@@ -1,0 +1,14 @@
+Git
+https://git-scm.com/book/ru/v2/
+
+Всё для изучения Python: 181 бесплатный материал + бонус
+https://tproger.ru/digest/data-science-python/
+
+ПРО PYTHON
+http://pythonz.net/
+
+Программирование на Python: от новичка до профессионала
+https://proglib.io/p/python-from-newbie-to-professional/
+
+Python на Хабре
+https://habrahabr.ru/post/205944/
